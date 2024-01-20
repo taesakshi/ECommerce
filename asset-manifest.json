@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/SkiSAM/static/js/main.5d148df3.js",
+    "static/media/img11.jpg": "/SkiSAM/static/media/img11.3c5f3d4c25e71f18148d.jpg",
+    "static/media/img22.jpg": "/SkiSAM/static/media/img22.884762c12bef560f182d.jpg",
+    "static/media/img33.jpg": "/SkiSAM/static/media/img33.e487a5df04cb572bdb2d.jpg",
+    "index.html": "/SkiSAM/index.html",
+    "main.5d148df3.js.map": "/SkiSAM/static/js/main.5d148df3.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.5d148df3.js"
+  ]
+}
